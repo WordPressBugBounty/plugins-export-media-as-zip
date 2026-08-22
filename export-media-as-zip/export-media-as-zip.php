@@ -13,7 +13,7 @@
  * @wordpress-plugin
  * Plugin Name:       Export Media as ZIP
  * Description:       Adds an admin page under Media to export images as a ZIP file with year and size filters.
- * Version:           1.8
+ * Version:           1.9
  * Author:            Huzoor Bux
  * Author URI:        https://huzoorbakhsh.com
  * License:           GPL-2.0+

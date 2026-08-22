@@ -2,9 +2,9 @@
 Contributors: huzoorbakhsh
 Tags: media, export, zip, download images, backup
 Requires at least: 6.0
-Tested up to: 7.0
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.8
+Stable tag: 1.9
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -63,6 +63,9 @@ Only sizes you check in the Image Size dropdown are included. If an intermediate
 If you have any questions or need help, please open an issue on GitHub or contact me at huzoorbux@gmail.com.
 
 == Changelog ==
+
+= 1.9 =
+* Tested up to WordPress 7.1
 
 = 1.7 =
 * Added Year filter — export images from one or more specific upload years
