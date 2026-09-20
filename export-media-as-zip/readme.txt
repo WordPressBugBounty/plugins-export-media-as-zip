@@ -8,7 +8,7 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Export images from your WordPress media library as a ZIP file — filter by year and image size before downloading. Premium adds documents, background export, and scheduled exports.
+Export WordPress media images as a ZIP. Filter by year and image size. Premium adds document, background, and scheduled exports.
 
 == Description ==
 
